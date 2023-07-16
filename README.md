@@ -20,7 +20,9 @@ Feedback form for furthur improvement.
 
 ## Technologies Used
 Front-end: HTML, CSS, JavaScript
+
 Back-end: PHP
+
 Database: MySQL
 
 ![image](https://github.com/Srijita2002/E-LIBRARY/assets/111299389/18c0328c-b8f7-488a-854f-b325aa5a8514)   ![image](https://github.com/Srijita2002/E-LIBRARY/assets/111299389/89022490-077c-4beb-bd77-efcd93cbdba0)
